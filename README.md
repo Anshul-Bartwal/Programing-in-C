@@ -7,7 +7,7 @@ I update this repo regularly with new lab problems.
 
 ## 📂 Structure
 - **Lab1.md** →Basics( printf, scanf and stdio.h)
-- **Lab2.md** → Basic Questions
+- **Lab2.md** → Basic Questions(String,math)
 
 ---
 
